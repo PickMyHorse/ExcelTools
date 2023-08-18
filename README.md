@@ -1,5 +1,4 @@
 # ExcelTools
-Write for my friend XueBa to handle pipeline Excel datas.
 
 The code is to split the Excel by different key words of one column.
 How to use it:
